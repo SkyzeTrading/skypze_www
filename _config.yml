@@ -1,18 +1,25 @@
+#dev settings
+livereload: true     # You no longer need to include --livereload
+
 # Site settings
-title: Elbe
-email: your-email@domain.com
+title: skyze.io
+email: skyzetrading@gmail.com
+phone: +61400 957 170
+address: 2/42 bilin Rd, Mullumbimby NSW 2482
+
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+facebook_username: skyze_io
+twitter_username: skyze_io
+github_username:  skyze_io
 
 # Build settings
 markdown: kramdown
-
 
 paginate: 4
 paginate_path: "blog/page:num"
